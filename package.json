@@ -1,0 +1,29 @@
+{
+  "name": "baend_tutorial",
+  "version": "1.0.0",
+  "description": "using nodejs express and mongoose",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github.com/clemudensi.git"
+  },
+  "author": "clement udensi",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt": "^1.0.3",
+    "body-parser": "~1.9.2",
+    "express": "~4.9.8",
+    "jwt-simple": "^0.3.1",
+    "mongoose": "^4.10.8",
+    "morgan": "~1.5.0",
+    "passport": "^0.3.0",
+    "passport-jwt": "^1.2.1"
+  },
+  "bugs": {
+    "url": "https://github.com/github.com/clemudensi/issues"
+  },
+  "homepage": "https://github.com/github.com/clemudensi#readme"
+}
